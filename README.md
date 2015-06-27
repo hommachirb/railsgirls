@@ -1,4 +1,4 @@
-Railsgirls Example
+Rails Girls Example
 ==================
 
 ## Installation
